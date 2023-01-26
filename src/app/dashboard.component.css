@@ -1,0 +1,11 @@
+div {
+  width: 600px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
